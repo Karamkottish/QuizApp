@@ -36,7 +36,7 @@ It is designed for educational institutions, independent tutors, and individual 
 
 ```bash
 # Clone the backend repository
-git clone https://github.com/MohaAmiry/english_quiz.git
+git clone https://github.com/Karamkottish/QuizApp.git
 
 # Navigate to backend folder
 cd english_quiz
